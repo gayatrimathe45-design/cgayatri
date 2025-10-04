@@ -46,5 +46,5 @@ int main()
 }
 
 
-write a program accept student details like roll no,name, &marks of 3 subject,
-calculate totalmarks & avg,find grade,display rsult/mark list in appropriate format??
+//write a program accept student details like roll no,name, &marks of 3 subject,
+//calculate totalmarks & avg,find grade,display rsult/mark list in appropriate format??
