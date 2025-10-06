@@ -1,13 +1,13 @@
+//write a program accept student details like roll no,name, &marks of 3 subject,
+//calculate totalmarks & avg,find grade,display rsult/mark list in appropriate format??
+
 #include<stdio.h>
 int main()
 {
-    float BasicSalary,da,hra,tax,totalsalary;
-    char name[100]; //character array(string)
-    int id;
-
-    printf("enter a employee details:");
-
-    printf("\nID:");
+  float roll no,name,marks,totalmarks,avg,grade;
+  char name[100];
+  int id;
+  printf("enter a student details"); printf("\nID:");
     scanf("%d",&id);
     printf("Name:");
     scanf("%s",name);
@@ -39,4 +39,9 @@ int main()
     printf("\nTAX(%%):%.2f",tax);
     printf("\nTotal Salary :%.2f",totalsalary);
     return 0;
+}
+
+
+
+
 }
