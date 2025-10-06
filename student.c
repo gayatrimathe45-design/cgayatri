@@ -40,8 +40,3 @@ int main()
     printf("\nTotal Salary :%.2f",totalsalary);
     return 0;
 }
-
-
-
-
-}
